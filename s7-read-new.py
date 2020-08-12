@@ -37,22 +37,22 @@ Output2 = sss[3]
 Output1 = sss[4]
 Output0 = sss[5]
 
-print '=== Inputs ==='
-print "Input 0 : " + Input0
-print "Input 1 : " + Input1
-print "Input 2 : " + Input2
-print "Input 3 : " + Input3
-print "Input 4 : " + Input4 
-print "Input 5 : " + Input5
-print "Input 6 : " + Input6 
-print "Input 7 : " + Input7
+print('=== Inputs ===')
+print ("Input 0 : " + Input0)
+print ("Input 1 : " + Input1)
+print ("Input 2 : " + Input2)
+print ("Input 3 : " + Input3)
+print ("Input 4 : " + Input4) 
+print ("Input 5 : " + Input5)
+print ("Input 6 : " + Input6)
+print ("Input 7 : " + Input7)
 
-print '===Outputs==='
-print "Output 0 : " + Output0
-print "Output 1 : " + Output1
-print "Output 2 : " + Output2
-print "Output 3 : " + Output3
-print "Output 4 : " + Output4 
-print "Output 5 : " + Output5
+print('===Outputs===')
+print("Output 0 : " + Output0)
+print("Output 1 : " + Output1)
+print("Output 2 : " + Output2)
+print("Output 3 : " + Output3)
+print("Output 4 : " + Output4)
+print("Output 5 : " + Output5)
 
 s7.disconnect()
